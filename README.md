@@ -24,11 +24,20 @@ Excel
 
 ## Exploratory Data Analysis
 
+### Dashboard
+For interactive dashboard, open excel file and go to dashboard worksheet or click here
+
+![image1](images/Worlds_Billionaire_SS.PNG)
+
 ### Data Preparation
   - Converting the data from Data Worksheet to excel table format
   - Initial descriptive statistics summary before cleaning the data
+  ![image2](images/eda_statistic.PNG)
+    
   - Correlation of Billionaires between Country's population
   - Correlation of Billionaires between Country's GDP
+![image3](images/gdp_pop.PNG)
+
 
 ### Data Cleaning
   - Remove unnecessary columns
@@ -43,11 +52,24 @@ Excel
 
 ### Analysis using Pivot Tables
   - Top 10 Richest per Category / Country / Gender / Self made
+  
+  ![image3](images/top10_pivot.PNG)
+  
   - Number of Billionaires per country
+
+  ![image3](images/country_pivot.PNG)
+  
   - Age bracket of Billionaire (10 year bin)
+
+  ![image3](images/age_pivot.PNG)
+  
   - Category / industries
+
+  ![image3](images/cat_pivot.PNG)
+  
   - Slicer / Filter of Category, country, gender, self made
-![image](https://github.com/user-attachments/assets/ec72755d-7d6a-461b-9d55-c68642574a06)
+  
+  ![image3](images/filter_pivot.PNG)
 
 ### Visualisation
   - Top 10 Richest - Bar Graph
@@ -59,7 +81,7 @@ Excel
   - Slicer / Filter (Country, Category, Gender, Self-made)
   - Category
 
-### Data Insights
+# Data Insights
   - Total of 475 billionaires from 2024 with atleast 5 billion worth, 86% (407) are male compared to 14% (68) female.
   - Out of 475, 309 (65%) of them are self made billionaires or started their company on their own and reached the billionaire status as of 2024. 166 (35%) of them are not self made billionaire.
   - Finance and Investments industry have the most number of billionaires with total of 77, followed by Technology, 62 and Fashion and Retail 54.
