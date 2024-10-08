@@ -25,7 +25,7 @@ Excel
 ## Exploratory Data Analysis
 
 ### Dashboard
-For interactive dashboard, open excel file and go to dashboard worksheet or click here
+For interactive dashboard, open excel file and go to dashboard worksheet or to download the file click [here](Billionaires_Dataset.xlsx)
 
 ![image1](images/Worlds_Billionaire_SS.PNG)
 
