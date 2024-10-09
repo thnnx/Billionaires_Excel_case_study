@@ -4,7 +4,7 @@ Exploratory data analysis on world's billionaires list of 2024
 
 ## Overview
 
-In this case study, we delve into the 2024 billionaire list, providing a comprehensive data analysis of the world's wealthiest individuals. The analysis focuses on key aspects of the billionaires, such as their **net worth**, the **countries they originate from**, and the **industries** that contributed to their current wealth. Furthermore, it examines the **age** distribution among the billionaires and explores the paths they took to reach their current status, whether through entrepreneurship, inheritance, or other means. 
+In this case study, we delve into the 2024 billionaire list, providing a comprehensive data analysis of the world's wealthiest individuals. The analysis focuses on key aspects of the billionaires, such as their **net worth**, their **countries**, and the **industries** that contributed to their current wealth. Furthermore, it examines the **age** distribution among the billionaires and identify how they reach to their current status, whether through entrepreneurship, inheritance, or other means. 
 
 This analysis aims to uncover patterns and trends shaping global wealth distribution in 2024.
 
